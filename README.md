@@ -11,5 +11,5 @@ sh server.sh
 app.UseHttpsRedirection();
 ```
 - GET /weatherforecast
-  * https://localhost/7069/weatherforecast
+  * https://localhost:7069/weatherforecast
   * Or http://locahost:5198/weatherforecast
